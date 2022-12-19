@@ -16,5 +16,6 @@ This whole thing of a personal website and blog feels pretty old school, I like 
 The cool nerdy part is, this is hosted for **Free** (as in beer) using GitHub Pages and the source code is on my github, I just push and boom. My content exists on the internet! 
 
 Though using the Jekyll Framework requires some configuration with github pages - to extend beyond the regular pages framework - I think it's worth it to learn the framework instead of the default Plain HTML site. 
+
 ---
 *we refers to society
