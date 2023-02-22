@@ -8,6 +8,6 @@ Hello! I'm Jed Palmater, a software developer with 4 years of experience using m
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/jed-palmater) and [GitHub](https://www.github.com/TheJedinator) for career and professional things  
             OR  
-[Mastodon](https://mastodon.social/@beaver_claw) and [Twitter](https://www.twitter.com/beaver_claw) for Social things
+[Mastodon](https://mstdn.ca/@beaver_claw) and [Twitter](https://www.twitter.com/beaver_claw) for Social things
 
 --- 
