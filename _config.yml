@@ -27,7 +27,7 @@ twitter_username: beaver_claw
 github_username: TheJedinator
 mastodon:
 - username: beaver_claw
-  instance: mastodon.social
+  instance: mstdn.ca
 # Build settings
 theme: minima
 plugins:
