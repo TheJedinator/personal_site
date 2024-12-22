@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A problem of my own design
+title: 2024 Mac work station setup
 ---
 
 I have been reading a few posts by others about their setups and felt inspired
