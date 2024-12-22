@@ -33,8 +33,8 @@ studio display shipped to my local Apple retailer for launch day and I happen to
 be the lucky bastard who bought it.
 
 Is it the perfect monitor? - nope. Is it pretty awesome? - hell yeah. What I
-really love about the studio display is the pixel density, every letter is a
-crisp and clear, images are vibrant and videos are fantastic. I also love not
+really love about the studio display is the pixel density, every letter is crisp
+and clear, images are vibrant and videos are fantastic. I also love not
 cluttering my desk with external speakers, since the built-in ones of the studio
 display are pretty good, and when I really want to jam out I put my headphones
 on anyway. I like not having a dingus that sits atop my monitor for a webcam or
@@ -48,7 +48,7 @@ estate every day of the week.
 ### Headphones
 
 Over ear - [Sony WH1000XM5](https://a.co/d/47BYX3q) - You can't beat the noise
-cancellation performance of these cans. The fidelity could be better, I'm sure
+cancellation performance of these cans. The fidelity could be better I'm sure,
 but they do the job for my non-audiophile ears.
 
 In Ear - [AirPods Pro V1](https://support.apple.com/en-us/111861) - They work so
@@ -80,14 +80,14 @@ particularly bad flare up in my forearms.
 
 It pretty much comes down to [Arc](https://arc.net) from The browser company. So
 far I have liked what these folks are trying to do - re-imagine the computing
-experience - since it seems like (almost) 90% of work is browser first. It makes
-sense to change our thinking about what a browser really is, and how we use it.
+experience - since it seems like a lot of work is browser first. It makes sense
+to change our thinking about what a browser really is, and how we use it.
 
 Things I have liked about Arc include:
 
 **The tab bar** and more importantly the distinct pinned area where I can place
-web tools I use often. The space below is what I consider to be ephemeral
-space - tomorrow it's empty and we start over. Since I do a lot of
+web tools I use often. The unpinned tab area below is what I consider to be
+ephemeral space - tomorrow it's empty and we start over. Since I do a lot of
 investigations, research and spelunking through logs having a button I can click
 that just says - bye bye tabs is so convenient as I work throughout the day.
 
@@ -98,13 +98,13 @@ opening work GitHub repos or LinkedIn profile links.
 
 **Little Arc** - Opening a link from Slack is often a short-lived item, I need
 to reference something from the link (often a UUID) but I don't need the tab
-living forever, this is where little arc is magic it opens a smaller less full
+living forever, this is where little arc is magic. It opens a smaller less full
 featured window for you to browse until you're done with it. If you need to keep
 it around you can hit the keyboard shortcut or button in the top right and it
 will move to your currently specified space - brilliant.
 
 **Preview** - Sometimes you're surfing and you open a link just to see something
-quickly, maybe a link from a blog post or link to a trace from log, you came you
+quickly, maybe a link from a blog post or link to a trace from log. You came you
 saw and you're done. The preview means just that - close it and your "base" tab
 is still there. But I wanted that tab to stick around, I hear you say? Ah, well
 you're in luck another button press, and it opens in a "real" tab and goes in
@@ -139,15 +139,16 @@ for some if it's excellent refactoring tools, but in most cases I use VSCode as
 my second editor now. I say _now_ because I started this year primarily using
 PyCharm as my python IDE and VSCode as my Typescript IDE. Now I'm just using
 Neovim as much as I can. Somewhere in the middle, I made a stop at all things
-were being done in VSCode and I still use it for interactive debugging (but with
-vim keybindings)
+being done in VSCode and I still use it for interactive debugging (but with vim
+keybindings). I plan to figure out interactive debugging within Neovim in the
+new year.
 
 ### Github Copilot
 
-Regardless of what editor/IDE I'm using, Copilot is there. Not to make me look
-smarter that I am as some have suggested, but type all the tedious boilerplate
+Regardless of what editor I'm using, Copilot is there. Not to make me look
+smarter than I am as some have suggested, but type all the tedious boilerplate
 that comes with writing tests, or general framework code. Not perfect but still
-faster and saves me some keystrokes which I can use the help with (RSI).
+faster and saves me some keystrokes - I can use the help with (RSI).
 
 ### Neovim
 
@@ -156,7 +157,7 @@ were all just "that person". Everyone has a story about that one person they
 worked with that was all in on vim and would love nothing more than to bend your
 ear for hours about how it's really GNU/Linux and how they use Arch BTW. But
 then I looked at the people I work with today who still proclaim Neovim as best
-editor and thought I'd give it a second look. Then my colleague dusty joined
+editor and thought I'd give it a second look. Then my colleague Dusty joined
 Float and I had to give it a third look as I read through
 [his book all about LazyVim](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/).
 We now have a growing community of Neovim users at work and having a community
@@ -170,13 +171,13 @@ editing, not writing new things.
 ### [Cursor](https://www.cursor.com)
 
 I have to be honest, I am not a great react developer. I can write a component
-and hooks and get around, but when it comes to have opinions about organizing
-the project - I leave those choices to the more season frontend folks on my
+and hooks and get around, but when it comes to having opinions about organizing
+the project - I leave those choices to the more seasoned frontend folks on my
 team. That means when I go looking for something, I often can't easily find it -
 but Cursor can. It can use a lot of different pieces of your project in its
 prompts to look for whatever the hell that piece of code is that does that one
 thing and interacts with that other one.... If I knew the file, I would be
-faster in any other tool but that's the beauty now I don't need to go bother
+faster in any other tool but that's the beauty, now I don't need to go bother
 someone to help me find it, I can ask AI and get an answer. Kinda nice.
 
 I did try writing a little side project tool using only Cursor, if it got things
@@ -188,18 +189,18 @@ it worked, but I think I would have been better off writing it by hand.
 I already talked about this in the intro. I started writing python
 professionally with PyCharm. I still feel something for it, like we all do with
 our firsts I guess. What I use it for now is mostly refactoring big swaths of
-code - renaming variables, changing signatures for methods that used in lots of
-places. I also use it for its universal search, if I know what a thing is
+code - renaming variables, changing signatures for methods that are used in lots
+of places. I also use it for its universal search, if I know what a thing is
 roughly called I can find with PyCharm search everywhere, when I really just
-can't in VSCode. That said, with fzf and Neovim, I don't think is a use case any
-longer.
+can't in VSCode. That said, with fzf and Neovim, I don't think this is a use
+case any longer.
 
 ### [Kitty](https://sw.kovidgoyal.net/kitty/) Terminal
 
 To have a good Neovim experience, one needs a good terminal. My colleague Dusty
 recommended Kitty, and so that's what I switched to when I started transitioning
 to Neovim. Prior to that, I was an [iterm2](https://iterm2.com) user for as long
-as I have a used a mac, as I found it to be the most like
+as I have a used a Mac, as I found it to be the most like
 [terminator](https://gnome-terminator.org) from my Linux days.
 
 The few things I know about kitty are that it uses GPU and VRAM to increase
@@ -212,7 +213,7 @@ as much keyboard usage as possible is handy.
 
 It's a handy toolbox for things one might need to do as a developer: Regex, Unix
 timestamps, UUID Generator, All kinds of formatting and serializing, converting
-and hash generation. Basically thing of utility function and it probably does
+and hash generation. Basically think of utility function and it probably does
 it. I got it on Black Friday sale and well worth the $20 or so I paid.
 
 ## "Productivity" Tools
@@ -230,7 +231,7 @@ it.
 I'm on the free plan as it serves most of my needs just fine. I did pay for it
 previously, but I just found I wasn't using enough of paid features to make it
 worthwhile. Mostly I used the location reminders. Push comes to shove, I can use
-Apple reminders to accomplish that if I really need it
+Apple reminders to accomplish that if I really need it.
 
 ### [Fantastical](https://flexibits.com/fantastical)
 
@@ -254,12 +255,26 @@ notes, launches apps, handles my window management, runs shell scripts, controls
 my smart home and gets me where I need to go FASSSSTT. Honestly, if it weren't
 for Raycast my computing experience would now feel wrong.
 
+### [Obsidian](https://obsidian.md)
+
+Yet another app I could write an entire blog post about. This is my note taking
+app of choice if it needs to stay in computer land. I use a hybrid approach to
+notes and have paper and pen combined with obsidian.
+
+I love that notes are local, markdown and I can open them with anything that can
+read/write markdown files. I also really enjoy the community and plug-in
+ecosystem. It can be overwhelming at first but now I have a folder structure
+that works for me and the right set of plugins to make it sing.
+
 ## Utilities and Navigation
 
-### Shottr
+### [Shottr](https://shottr.cc)
 
-A better screenshot experience. Screenshot open an editor mark it up copy or
-save. A very simple task focused tool that does what I need and lets me annotate
+A better screenshot experience. Take a Screenshot, open an editor, mark up the
+image, copy or save. The option to copy the image to my clipboard means I rarely
+ever save screenshots, since they just get trashed in a week or two anyway.
+
+A very simple task focused tool that does what I need and lets me annotate
 screenshots before sending. Super convenient for a product team. I tossed some
 coin to this Witcher for making a product I use every day, making it free and
 making me not need to think about it.
@@ -279,6 +294,10 @@ files in your shelf as an intermediate place to build up a collection of files
 before dropping them wherever they should go. Very handy and solves my biggest
 issue with macOS — using a GUI to move files.
 
+Melissa and I recently used this to split up a bunch of our wedding photos to
+make different albums and send them off for printing. She enjoyed it Dropover
+too so it gets spouse approval.
+
 ### [Velja](https://sindresorhus.com/velja)
 
 Ok we all use a bunch of apps that can open links (linear, Spotify, slack etc.)
@@ -292,9 +311,10 @@ something any OS should have built in at this point.
 
 It seems that every Mac app nowadays has a menu bar icon, for some reason, it
 may not provide much use, but it's there. Some apps allow you to disable their
-menu bar item, some don't but with bartender it disappears nicely behind a list,
-you can configure what is displayed and what isn't very handy. It is a paid app
-and there are free alternatives, this one is a bit more polished.
+menu bar item, some don't but with bartender it disappears nicely behind a list.
+You can configure what is displayed, and more importantly what isn't, very
+handy. It is a paid app and there are free alternatives, this one is a bit more
+polished.
 
 [Hidden bar](https://github.com/dwarvesf/hidden) is one I have used in the past
 that is pretty good.
