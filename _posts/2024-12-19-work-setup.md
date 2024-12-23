@@ -328,5 +328,5 @@ stopping using the mouse, it's that simple.
 ## Conclusion
 
 I hope you enjoyed reading this post and maybe find a tool or a trick to take
-with you in your computing journey in 2025. If you didn't, I at least had phone
+with you in your computing journey in 2025. If you didn't, I at least had fun
 making this post 😝
