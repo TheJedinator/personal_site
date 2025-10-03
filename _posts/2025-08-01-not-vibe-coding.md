@@ -99,12 +99,10 @@ Some of my use cases and favourite MCPs:
 
 1. **[Sequential thinking](https://github.com/modelcontextprotocol/servers/blob/main/src/sequentialthinking/README.md)** - I'm linking this one because I think you can benefit from reading more to understand it. Basically this can turn ANY model into a "thinking" model.
 
-2. **django-model-context** - because I built it and it helps the model know how our code base works
+2. **django-model-context** - because I built it and it helps the model know how our code base works. I'm thinking about open sourcing this that takes time and probably will be less useful as time goes on.
 
-3. **PostgresMCP** - I use this every freaking day, find answers to weird support issues or getting some kind of analysis on usage of a product. It's great to get the bulk of something done while I'm busing doing something else
+3. **PostgresMCP** - I use this every freaking day, find answers to weird support issues or getting some kind of analysis on usage of a product. It's great to get the bulk of something done while I'm busing doing something else. These have readonly credentials AND the MCP only performs read actions for hopefully obvious reasons.
 
 4. **Linear MCP** - If the ticket is good enough you can just feed that to your model and get it to start working, if it's not you can use it for additional context to your prompt, just plug the ticket number with your prompt and tell it to use linear mcp
 
 5. **GitHub MCP** - I've actually found this one a bit useless since I have `gh` command line tools
-
--
