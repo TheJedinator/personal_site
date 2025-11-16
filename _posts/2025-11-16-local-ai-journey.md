@@ -12,10 +12,10 @@ I have no need to run local LLMs per se, but like most of what I enjoy about com
 
 ## Hardware
 
-CPU: Intel Core i7 7700K
-GPU: Nvidia GTX 1660 Super (6GB VRAM)
-RAM: 32GB DDR4 @ 3200Mhz
-NVME SSD and other various drives for storage
+CPU: Intel Core i7 7700K  
+GPU: Nvidia GTX 1660 Super (6GB VRAM)  
+RAM: 32GB DDR4 @ 3200Mhz  
+Storage: Samsung NVMe SSD 1TB & other various drives for storage
 
 ## Models are big!
 
